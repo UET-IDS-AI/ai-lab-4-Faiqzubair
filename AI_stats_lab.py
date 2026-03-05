@@ -6,7 +6,7 @@ Autograded lab: Gradient Descent + Linear Regression (Diabetes)
 You must implement the TODO functions below.
 Do not change function names or return signatures.
 """
-from _future_ import annotations
+from __future__ import annotations
 
 from dataclasses import dataclass
 from typing import Dict, Optional, Tuple
